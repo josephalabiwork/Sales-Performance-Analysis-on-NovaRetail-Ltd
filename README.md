@@ -32,7 +32,6 @@ Key data cleaning and preparation steps included:
 		Basic Statistics:
 	•	Minimum revenue: ₦5,000
 	•	Maximum revenue: ₦972,000
-	•	Average revenue: approximately ₦268,373
            •        Total revenue:  ₦29,521,000
             •        Unique customers:  77
 
