@@ -40,7 +40,7 @@ During the EDA stage, several aspects of the data were explored:
            •        Total revenue:  ₦29,521,000
             •        Unique customers:  77
 ## Sales Distribution:
-Lagos recorded the highest transaction frequency and revenue, followed by Abuja, Kano, and Port Harcourt.
+Lagos recorded the highest transaction frequency and revenue, followed by Kano, Port Harcourt and abuja
 	•	Customer Behaviour:
 Returning customers contributed a larger portion of total revenue compared to new customers.
 	•	Monthly Trends:
