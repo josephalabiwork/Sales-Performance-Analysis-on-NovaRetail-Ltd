@@ -36,7 +36,7 @@ Key data cleaning and preparation steps included:
            •        Total revenue:  ₦29,521,000
             •        Unique customers:  77
 
-	•	Sales Distribution:
+	## SALES DISTRIBUTION:
 Lagos recorded the highest transaction frequency and revenue, followed by Abuja, Kano, and Port Harcourt.
 	•	Customer Behaviour:
 Returning customers contributed a larger portion of total revenue compared to new customers.
