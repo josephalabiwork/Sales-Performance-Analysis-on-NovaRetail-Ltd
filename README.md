@@ -37,7 +37,7 @@ Key data cleaning and preparation steps included:
             •        Unique customers:  77
 
 ## SALES DISTRIBUTION:
-Lagos recorded the highest transaction frequency and revenue, followed by Abuja, Kano, and Port Harcourt.
+Lagos recorded the highest revenue, followed by kano, Port Harcourt and abuja
 	•	Customer Behaviour:
 Returning customers contributed a larger portion of total revenue compared to new customers.
 	•	Monthly Trends:
