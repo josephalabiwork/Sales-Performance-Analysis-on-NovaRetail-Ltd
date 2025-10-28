@@ -31,6 +31,24 @@ Key data cleaning and preparation steps included:
 	•	Verified that numerical fields (Units Sold, Unit Price, Revenue, Discount) contained valid values.
 	•	Created Month column derived from Date for monthly trend analysis.
 	•	Calculated Total After Discount = Revenue - Discount for net revenue.
+## Exploratory Data Analysis
+During the EDA stage, several aspects of the data were explored:
+		Basic Statistics:
+	•	Minimum revenue: ₦5,000
+	•	Maximum revenue: ₦972,000
+	•	Average revenue: approximately ₦268,373
+           •        Total revenue:  ₦29,521,000
+            •        Unique customers:  77
+## Sales Distribution:
+Lagos recorded the highest transaction frequency and revenue, followed by Abuja, Kano, and Port Harcourt.
+	•	Customer Behaviour:
+Returning customers contributed a larger portion of total revenue compared to new customers.
+	•	Monthly Trends:
+         Sales peaked in September 2024
+	•	Outliers:
+A few high-revenue transactions in Lagos (₦250,000 and above) significantly influenced the total revenue.
+ 
+
 
 
 
