@@ -36,7 +36,7 @@ Key data cleaning and preparation steps included:
            •        Total revenue:  ₦29,521,000
             •        Unique customers:  77
 
-	## SALES DISTRIBUTION:
+## SALES DISTRIBUTION:
 Lagos recorded the highest transaction frequency and revenue, followed by Abuja, Kano, and Port Harcourt.
 	•	Customer Behaviour:
 Returning customers contributed a larger portion of total revenue compared to new customers.
@@ -104,7 +104,7 @@ Monitor Seasonal Sales Patterns
 o	Plan promotions and stock levels around that period.
 o	Analyze low-performing months to identify reasons (e.g., stock issues, reduced marketing).
 
-10.      Conclusion
+10. ## CONCLUSION
 
 The analysis reveals that the business is performing well overall, with ₦29.52 million in total revenue and strong customer engagement across major cities. Lagos stands out as the leading market, while Electronics remain the key revenue driver, contributing the majority of total sales.
 Returning customers account for most of the income, highlighting good customer loyalty and satisfaction, though there is room to attract more new customers through targeted marketing. Sales performance is led by Abdul Salim, whose strategies could be replicated to improve team-wide results.
