@@ -1,0 +1,111 @@
+TransactionID,Date,City,CustomerID,CustomerType,Category,UnitsSold,UnitPrice,Revenue,Discount,SalesRep
+T001,2024-01-15,Lagos,C001,New,Electronics,2,150000,300000,5000,Chuka Obasi
+T002,2024-01-18,Abuja,C002,Returning,Appliances,1,85000,85000,0,Mary Felix
+T003,2024-01-20,Port Harcourt,C003,New,Accessories,4,5000,20000,200,Abdul Salim
+T004,2024-01-21,Lagos,C004,Returning,Electronics,1,160000,160000,3000,Chuka Obasi
+T005,2024-02-01,Kano,C005,New,Appliances,2,90000,180000,4000,Mary Felix
+T006,2024-02-03,Lagos,C006,Returning,Accessories,5,7000,35000,0,Abdul Salim
+T007,2024-02-10,Abuja,C007,New,Electronics,1,155000,155000,2500,Mary Felix
+T008,2024-02-12,Port Harcourt,C008,Returning,Appliances,3,87000,261000,6000,Abdul Salim
+T009,2024-03-05,Lagos,C001,Returning,Accessories,6,6000,36000,300,Chuka Obasi
+T010,2024-03-08,Kano,C009,New,Electronics,2,158000,316000,7000,Mary Felix
+T011,2024-09-08,Lagos,C008,Returning,Electronics,3,160000,480000,0,Abdul Salim
+T012,2024-04-21,Port Harcourt,C049,New,Accessories,3,5500,16500,6000,Abdul Salim
+T013,2024-10-20,Abuja,C074,New,Accessories,2,5000,10000,3000,Mary Felix
+T014,2024-06-12,Lagos,C129,Returning,Appliances,2,87000,174000,500,Abdul Salim
+T015,2024-03-16,Abuja,C132,New,Appliances,1,88000,88000,2500,Mary Felix
+T016,2024-11-11,Port Harcourt,C072,New,Electronics,5,150000,750000,3000,Abdul Salim
+T017,2024-02-09,Port Harcourt,C072,New,Accessories,3,6000,18000,0,Mary Felix
+T018,2024-12-02,Abuja,C107,New,Appliances,4,88000,352000,6000,Mary Felix
+T019,2024-08-28,Kano,C097,New,Accessories,2,6000,12000,5000,Mary Felix
+T020,2024-07-04,Lagos,C091,Returning,Accessories,1,7000,7000,5000,Abdul Salim
+T021,2024-05-14,Kano,C044,Returning,Accessories,2,6500,13000,0,Abdul Salim
+T022,2024-07-15,Abuja,C050,Returning,Accessories,2,6500,13000,3000,Chuka Obasi
+T023,2024-11-24,Port Harcourt,C061,New,Accessories,2,5000,10000,200,Mary Felix
+T024,2024-12-29,Kano,C080,New,Appliances,4,87000,348000,7000,Mary Felix
+T025,2024-02-26,Port Harcourt,C074,Returning,Appliances,3,86000,258000,3000,Chuka Obasi
+T026,2024-06-19,Lagos,C072,Returning,Accessories,2,5000,10000,7000,Chuka Obasi
+T027,2024-12-19,Kano,C124,New,Appliances,2,87000,174000,2500,Chuka Obasi
+T028,2024-05-14,Kano,C133,New,Appliances,4,87000,348000,200,Mary Felix
+T029,2024-01-19,Abuja,C133,Returning,Appliances,3,90000,270000,7000,Mary Felix
+T030,2024-12-10,Port Harcourt,C113,Returning,Accessories,2,5000,10000,2500,Chuka Obasi
+T031,2024-03-06,Port Harcourt,C069,New,Electronics,4,160000,640000,6000,Mary Felix
+T032,2024-12-11,Kano,C117,New,Electronics,2,155000,310000,6000,Chuka Obasi
+T033,2024-09-09,Port Harcourt,C144,New,Electronics,3,158000,474000,7000,Chuka Obasi
+T034,2024-07-18,Abuja,C035,Returning,Appliances,4,86000,344000,1000,Abdul Salim
+T035,2024-12-22,Kano,C138,New,Electronics,2,158000,316000,5000,Mary Felix
+T036,2025-01-09,Abuja,C072,New,Appliances,1,88000,88000,7000,Abdul Salim
+T037,2024-07-23,Lagos,C140,Returning,Appliances,6,85000,510000,0,Abdul Salim
+T038,2024-10-26,Kano,C097,Returning,Electronics,5,158000,790000,5000,Mary Felix
+T039,2024-03-04,Abuja,C083,New,Accessories,5,7000,35000,4000,Mary Felix
+T040,2024-11-15,Lagos,C093,Returning,Appliances,3,85000,255000,2500,Abdul Salim
+T041,2024-05-28,Port Harcourt,C074,New,Accessories,4,7000,28000,4000,Mary Felix
+T042,2024-08-22,Port Harcourt,C092,Returning,Accessories,2,5500,11000,4000,Mary Felix
+T043,2024-10-08,Port Harcourt,C103,Returning,Accessories,5,7000,35000,3000,Chuka Obasi
+T044,2024-07-08,Kano,C082,New,Appliances,5,86000,430000,0,Abdul Salim
+T045,2024-01-31,Kano,C096,New,Appliances,2,86000,172000,6000,Mary Felix
+T046,2024-03-17,Abuja,C143,Returning,Appliances,6,90000,540000,7000,Chuka Obasi
+T047,2024-05-04,Kano,C114,Returning,Appliances,6,85000,510000,3000,Abdul Salim
+T048,2024-04-15,Lagos,C021,Returning,Electronics,4,158000,632000,1000,Mary Felix
+T049,2024-06-14,Abuja,C075,Returning,Appliances,2,85000,170000,4000,Chuka Obasi
+T050,2024-06-20,Port Harcourt,C063,New,Accessories,4,7000,28000,5000,Mary Felix
+T051,2024-03-10,Lagos,C031,Returning,Accessories,5,5500,27500,4000,Mary Felix
+T052,2024-05-14,Abuja,C065,Returning,Accessories,3,6000,18000,2500,Abdul Salim
+T053,2024-04-03,Lagos,C104,Returning,Appliances,1,87000,87000,1000,Mary Felix
+T054,2024-01-28,Lagos,C062,New,Accessories,6,5000,30000,5000,Chuka Obasi
+T055,2024-10-15,Kano,C103,New,Electronics,3,150000,450000,1000,Mary Felix
+T056,2024-02-22,Port Harcourt,C052,Returning,Appliances,2,90000,180000,5000,Chuka Obasi
+T057,2024-09-10,Port Harcourt,C123,New,Electronics,2,150000,300000,6000,Abdul Salim
+T058,2024-10-28,Abuja,C072,Returning,Appliances,2,90000,180000,5000,Abdul Salim
+T059,2024-06-25,Abuja,C098,New,Accessories,5,6000,30000,4000,Abdul Salim
+T060,2024-02-25,Port Harcourt,C054,New,Appliances,3,85000,255000,0,Abdul Salim
+T061,2024-06-16,Lagos,C095,New,Appliances,4,85000,340000,200,Abdul Salim
+T062,2024-08-13,Kano,C052,New,Accessories,5,5500,27500,3000,Chuka Obasi
+T063,2024-05-12,Abuja,C076,Returning,Electronics,6,158000,948000,500,Chuka Obasi
+T064,2024-02-28,Port Harcourt,C084,New,Accessories,4,6000,24000,6000,Abdul Salim
+T065,2024-09-24,Lagos,C088,New,Electronics,1,158000,158000,2500,Mary Felix
+T066,2024-10-01,Abuja,C145,New,Electronics,2,162000,324000,500,Mary Felix
+T067,2024-11-09,Kano,C011,Returning,Electronics,2,158000,316000,3000,Chuka Obasi
+T068,2024-05-29,Port Harcourt,C057,New,Accessories,2,7000,14000,7000,Mary Felix
+T069,2024-07-31,Port Harcourt,C100,New,Accessories,2,5500,11000,5000,Abdul Salim
+T070,2024-09-22,Lagos,C060,Returning,Electronics,6,162000,972000,4000,Chuka Obasi
+T071,2024-04-11,Abuja,C109,Returning,Electronics,4,162000,648000,6000,Abdul Salim
+T072,2024-07-14,Port Harcourt,C013,New,Accessories,5,5000,25000,1000,Chuka Obasi
+T073,2024-02-02,Kano,C052,New,Electronics,4,155000,620000,3000,Chuka Obasi
+T074,2024-10-06,Kano,C140,Returning,Electronics,4,160000,640000,4000,Chuka Obasi
+T075,2024-05-22,Lagos,C044,Returning,Electronics,4,150000,600000,200,Abdul Salim
+T076,2024-08-20,Port Harcourt,C085,New,Accessories,1,7000,7000,5000,Abdul Salim
+T077,2024-11-22,Port Harcourt,C087,Returning,Appliances,4,87000,348000,4000,Abdul Salim
+T078,2024-01-22,Port Harcourt,C041,Returning,Electronics,5,158000,790000,7000,Abdul Salim
+T079,2024-11-09,Kano,C064,Returning,Accessories,1,6500,6500,500,Abdul Salim
+T080,2024-09-22,Lagos,C046,Returning,Appliances,5,87000,435000,500,Chuka Obasi
+T081,2024-12-04,Kano,C047,Returning,Electronics,3,158000,474000,3000,Mary Felix
+T082,2024-01-26,Lagos,C089,Returning,Appliances,6,86000,516000,6000,Mary Felix
+T083,2024-08-06,Kano,C017,New,Accessories,5,6000,30000,200,Mary Felix
+T084,2024-12-05,Kano,C057,Returning,Accessories,1,5000,5000,500,Abdul Salim
+T085,2024-08-05,Kano,C019,New,Appliances,5,86000,430000,200,Mary Felix
+T086,2024-08-26,Kano,C088,Returning,Accessories,5,7000,35000,500,Mary Felix
+T087,2024-05-16,Abuja,C073,New,Accessories,1,5500,5500,3000,Abdul Salim
+T088,2024-12-08,Lagos,C076,Returning,Electronics,2,158000,316000,5000,Abdul Salim
+T089,2024-01-16,Kano,C089,New,Electronics,4,150000,600000,4000,Mary Felix
+T090,2024-12-30,Port Harcourt,C135,New,Electronics,3,158000,474000,6000,Mary Felix
+T091,2024-12-21,Lagos,C075,Returning,Appliances,6,85000,510000,7000,Chuka Obasi
+T092,2024-09-21,Lagos,C040,Returning,Electronics,6,160000,960000,0,Abdul Salim
+T093,2024-03-09,Port Harcourt,C052,New,Electronics,1,162000,162000,7000,Chuka Obasi
+T094,2024-06-21,Port Harcourt,C001,New,Accessories,3,7000,21000,7000,Abdul Salim
+T095,2024-03-28,Port Harcourt,C127,New,Accessories,6,5000,30000,1000,Abdul Salim
+T096,2024-02-16,Kano,C110,Returning,Appliances,2,87000,174000,4000,Chuka Obasi
+T097,2024-04-29,Port Harcourt,C135,Returning,Appliances,2,88000,176000,2500,Chuka Obasi
+T098,2025-01-08,Abuja,C064,Returning,Accessories,4,7000,28000,200,Abdul Salim
+T099,2024-02-05,Port Harcourt,C144,Returning,Electronics,6,160000,960000,200,Abdul Salim
+T100,2025-01-05,Lagos,C073,New,Accessories,3,7000,21000,1000,Abdul Salim
+T101,2024-09-25,Kano,C025,Returning,Electronics,3,160000,480000,0,Abdul Salim
+T102,2024-12-28,Lagos,C076,New,Electronics,4,150000,600000,4000,Chuka Obasi
+T103,2024-02-12,Kano,C074,Returning,Appliances,5,87000,435000,2500,Chuka Obasi
+T104,2024-06-16,Port Harcourt,C062,Returning,Electronics,2,155000,310000,7000,Chuka Obasi
+T105,2024-09-27,Lagos,C010,New,Electronics,3,160000,480000,5000,Chuka Obasi
+T106,2024-03-05,Lagos,C046,New,Electronics,2,155000,310000,500,Abdul Salim
+T107,2024-10-23,Port Harcourt,C061,Returning,Electronics,2,155000,310000,4000,Mary Felix
+T108,2024-09-08,Port Harcourt,C070,New,Accessories,1,5500,5500,500,Mary Felix
+T109,2024-02-10,Kano,C135,New,Electronics,2,150000,300000,200,Chuka Obasi
+T110,2024-11-08,Lagos,C113,New,Electronics,2,162000,324000,7000,Mary Felix
