@@ -24,14 +24,14 @@ Unit Price                                   Price per unit
 Revenue                  Total revenue from the transaction
 Discount                 Discount amount applied
 SalesRep                    Name of the sales representative 
-## Data Preparation
+## DATA PREPARATION
 Key data cleaning and preparation steps included:
 	•	Checked and confirmed no null values or duplicates.
 	•	Converted Date column to proper datetime format.
 	•	Verified that numerical fields (Units Sold, Unit Price, Revenue, Discount) contained valid values.
 	•	Created Month column derived from Date for monthly trend analysis.
 	•	Calculated Total After Discount = Revenue - Discount for net revenue.
-## Exploratory Data Analysis
+## EXPLORATORY DATA ANALYSIS
 During the EDA stage, several aspects of the data were explored:
 		Basic Statistics:
 	•	Minimum revenue: ₦5,000
@@ -39,7 +39,7 @@ During the EDA stage, several aspects of the data were explored:
 	•	Average revenue: approximately ₦268,373
            •        Total revenue:  ₦29,521,000
             •        Unique customers:  77
-## Sales Distribution:
+## SALES DISTRIBUTION:
 Lagos recorded the highest transaction frequency and revenue, followed by Kano, Port Harcourt and abuja
 	•	Customer Behaviour:
 Returning customers contributed a larger portion of total revenue compared to new customers.
