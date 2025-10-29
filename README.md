@@ -31,6 +31,35 @@ Returning customers contributed a larger portion of total revenue compared to ne
          Sales peaked in September 2024
 	•	Outliers:
 A few high-revenue transactions in Lagos (₦250,000 and above) significantly influenced the total revenue.
+#  Analysis & Key Insights
+•  The total revenue generated was ₦29,521,000 across all cities.
+•  Lagos contributed the highest share of revenue.
+•  September 2024 recorded the highest monthly sales.
+Customer Insights:
+•  Total number of distinct customers was 77.
+•  Returning customers generated more consistent sales.
+•  23 customers purchased more than once.
+# Product Insights:
+•  The most popular product category by sales volume was Electronics.
+•  Electronics generated the highest total revenue.
+•  Average revenue per unit (Electronics): ₦ 156,959.02.
+Sales Rep Insights:
+•  Highest-performing sales rep: Abdul Salim with total revenue ₦.
+  •Average units sold per sales rep: Abdul Salim- 3.35,
+Chuka Obazi – 3.44 ,
+Mary Felix – 2.97.
+•  Total discount given across all sales: ₦357,300.
+  # Summary of Findings
+ • Total Revenue: ₦29.52 million generated across 110 transactions.
+•  Customer Base: 77 distinct customers, with 23 making repeat purchases.
+• Top City: Lagos led with ₦9.29 million in revenue — the strongest regional performer.
+•  Customer Type Split:
+•	Returning customers: ₦17.49 million (≈59% of total)
+•	New customers: ₦12.03 million (≈41% of total)
+•  Top Product Category: Electronics, contributing ₦19.15 million (≈65% of total revenue).
+•  Peak Month: September 2024 recorded the highest revenue (₦4.74 million).
+•  Top Sales Rep: Abdul Salim, generating ₦10.59 million — the most successful salesperson.
+
  
 
 
