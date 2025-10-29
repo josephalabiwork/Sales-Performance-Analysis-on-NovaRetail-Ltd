@@ -59,6 +59,16 @@ Mary Felix – 2.97.
 •  Top Product Category: Electronics, contributing ₦19.15 million (≈65% of total revenue).
 •  Peak Month: September 2024 recorded the highest revenue (₦4.74 million).
 •  Top Sales Rep: Abdul Salim, generating ₦10.59 million — the most successful salesperson.
+## 💡 Recommendations
+Actionable steps NovaRetail can take based on the findings:
+- **Replicate the September playbook:** Conduct a retroactive campaign analysis for September (promotions, stock levels, and channel mix) and replicate the most successful tactics.
+- **Invest in Lagos and Abuja market penetration:** Lagos contributes ~31.5% of total revenue — prioritize marketing and inventory there. Abuja shows strong accessories volume, so focus on targeted promotions for that category.
+- **Focus on retention programs:** Returning customers generate ~59% of revenue. Implement loyalty programs, repeat-purchase incentives, and personalized offers to increase customer lifetime value.
+- **Leverage top sales reps:** Analyze Abdul Salim’s performance strategies (accounts, leads, pricing, negotiation) and share best practices through mentorship or adjusted commission structures. Introduce incentives for mid-tier sales reps.
+- **Optimize discount strategy:** The average discount per transaction (₦3,248) and total discount (₦357,300) are reasonable. Monitor margin impact during promotional months and favor targeted couponing over blanket discounts.
+- **Prioritize high-margin inventory:** Since electronics drive the highest revenue per unit, ensure consistent stock availability, offer warranty bundles, and promote premium service add-ons.
+- **Encourage repeat purchases among one-time buyers:** Convert one-time customers (~70% of total) using follow-up offers, cross-sell campaigns, and small loyalty rewards.
+- **Investigate Port Harcourt performance:** Since excluding Port Harcourt significantly impacts total revenue, review operations, returns, and delivery times in that city to optimize logistics and marketing spend.
 
  
 
