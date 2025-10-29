@@ -8,14 +8,14 @@ Company Name: Nova Retail Ltd.
 Nature of Business: Sales of electronics, appliances, and accessories.
 Business Goal:
 To identify sales trends, top-performing categories, customer patterns, and areas to improve profitability by analysing historical sales data.
-## DATA PREPARATION
+## 🧹 Data Preparation
 Key data cleaning and preparation steps included:
-	•	Checked and confirmed no null values or duplicates.
-	•	Converted Date column to proper datetime format.
-	•	Verified that numerical fields (Units Sold, Unit Price, Revenue, Discount) contained valid values.
-	•	Created Month column derived from Date for monthly trend analysis.
-	•	Calculated Total After Discount = Revenue - Discount for net revenue.
-: approximately ₦268,373
+- Checked and confirmed **no null values or duplicate records** were present.  
+- Converted the **Date** column to a proper datetime format.  
+- Verified that numerical fields — **Units Sold**, **Unit Price**, **Revenue**, and **Discount** — contained valid values.  
+- Created a **Month** column derived from the Date field for monthly trend analysis.  
+- Calculated **Total After Discount = Revenue - Discount** to determine net revenue.  
+- Verified the **average revenue per transaction** was approximately **₦268,373**.
 ## 🔍 Exploratory Data Analysis (EDA)
 During the EDA stage, several key aspects of the dataset were explored to understand its structure and underlying patterns.
 **Basic Statistics:**  
