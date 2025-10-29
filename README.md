@@ -15,34 +15,28 @@ Key data cleaning and preparation steps included:
 	•	Verified that numerical fields (Units Sold, Unit Price, Revenue, Discount) contained valid values.
 	•	Created Month column derived from Date for monthly trend analysis.
 	•	Calculated Total After Discount = Revenue - Discount for net revenue.
-## EXPLORATORY DATA ANALYSIS
-During the EDA stage, several aspects of the data were explored:
-		Basic Statistics:
-	•	Minimum revenue: ₦5,000
-	•	Maximum revenue: ₦972,000
-	•	Average revenue: approximately ₦268,373
-           •        Total revenue:  ₦29,521,000
-            •        Unique customers:  77
+: approximately ₦268,373
+## 🔍 Exploratory Data Analysis (EDA)
+During the EDA stage, several key aspects of the dataset were explored to understand its structure and underlying patterns.
+**Basic Statistics:**  
+- **Minimum Revenue:** ₦5,000  
+- **Maximum Revenue:** ₦972,000  
+- **Average Revenue:** ≈ ₦268,373  
+- **Total Revenue:** ₦29,521,000  
+- **Unique Customers:** 77  
 ## 📦 Sales Distribution
-
 - **Lagos** recorded the highest transaction frequency and revenue, followed by **Kano**, **Port Harcourt**, and **Abuja**.  
 - **Customer Behaviour:** Returning customers contributed a larger portion of total revenue compared to new customers.  
 - **Monthly Trends:** Sales peaked in **September 2024**.  
 - **Outliers:** A few high-revenue transactions in Lagos (₦250,000 and above) significantly influenced the total revenue.
-
----
-
 ## 📈 Analysis & Key Insights
-
 - **Total Revenue:** ₦29,521,000 generated across all cities.  
 - **Top City:** Lagos contributed the highest share of revenue.  
 - **Peak Month:** September 2024 recorded the highest monthly sales.  
-
 **Customer Insights:**  
 - Total number of distinct customers: **77**  
 - Returning customers generated more consistent sales  
 - **23** customers made repeat purchases  
-
 ## 🛍️ Product Insights
 - The most popular product category by sales volume was **Electronics**.  
 - **Electronics** generated the highest total revenue.  
