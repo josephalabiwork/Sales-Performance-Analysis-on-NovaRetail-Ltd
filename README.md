@@ -67,6 +67,12 @@ Actionable steps NovaRetail can take based on the findings:
 - **Prioritize high-margin inventory:** Since electronics drive the highest revenue per unit, ensure consistent stock availability, offer warranty bundles, and promote premium service add-ons.
 - **Encourage repeat purchases among one-time buyers:** Convert one-time customers (~70% of total) using follow-up offers, cross-sell campaigns, and small loyalty rewards.
 - **Investigate Port Harcourt performance:** Since excluding Port Harcourt significantly impacts total revenue, review operations, returns, and delivery times in that city to optimize logistics and marketing spend.
+- ## ✅ Conclusion
+The analysis reveals that **NovaRetail Ltd.** is performing well overall, generating a total revenue of **₦29.52 million** with strong customer engagement across major cities.  
+**Lagos** stands out as the leading market, while **Electronics** remain the primary revenue driver, contributing the majority of total sales.  
+**Returning customers** account for most of the income, reflecting strong loyalty and satisfaction, though there is still room to attract more **new customers** through targeted marketing strategies.  
+Sales performance is led by **Abdul Salim**, whose approach and techniques could be replicated to enhance overall team results.
+
 
  
 
