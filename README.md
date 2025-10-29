@@ -1,13 +1,12 @@
 # Sales-Performance-Analysis-on-NovaRetail-Ltd.
 A Python-based data analysis project showcasing data cleaning with Pandas and insightful visualizations using Matplotlib.
-## INTRODUCTION
-This report presents the analysis of NovaRetail Ltd.’s sales data to understand sales performance across four Nigerian cities.
- The analysis focuses on total revenue, product categories, customer behavior, and sales trends to support better 
- ## BUSINESS UNDERSTANDING
-Company Name: Nova Retail Ltd.
-Nature of Business: Sales of electronics, appliances, and accessories.
-Business Goal:
-To identify sales trends, top-performing categories, customer patterns, and areas to improve profitability by analysing historical sales data.
+## 📘 Introduction
+This report presents the analysis of **NovaRetail Ltd.’s** sales data to understand overall sales performance across four major Nigerian cities.  
+The analysis focuses on **total revenue, product categories, customer behavior, and sales trends** to support better data-driven decision-making and improve business performance.
+ ## 🏢 Business Understanding
+**Company Name:** Nova Retail Ltd.  
+**Nature of Business:** Sales of electronics, appliances, and accessories.  
+**Business Goal:** To identify sales trends, top-performing product categories, customer behavior patterns, and areas to improve profitability by analyzing historical sales data.
 ## 🧹 Data Preparation
 Key data cleaning and preparation steps included:
 - Checked and confirmed **no null values or duplicate records** were present.  
