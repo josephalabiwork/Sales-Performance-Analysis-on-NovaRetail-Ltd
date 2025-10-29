@@ -8,22 +8,6 @@ Company Name: Nova Retail Ltd.
 Nature of Business: Sales of electronics, appliances, and accessories.
 Business Goal:
 To identify sales trends, top-performing categories, customer patterns, and areas to improve profitability by analysing historical sales data.
-## DATA UNDERSTANDING
-This data contains 110 transactions across 11 columns
-Each reCord represents a single transaction with the following fields: 
-
-Column                                                                Description
-TransactionID                  Unique identifier for each sale
-Date                                             Date of transaction
-City                                               City where the sale occurred
-CustomerID                Unique identifier for each customer
-Customer Type        Indicates customer New or Returning
-Category                     Product category (Electronics, etc)
-Units Sold                               Number of units sold
-Unit Price                                   Price per unit
-Revenue                  Total revenue from the transaction
-Discount                 Discount amount applied
-SalesRep                    Name of the sales representative 
 ## DATA PREPARATION
 Key data cleaning and preparation steps included:
 	•	Checked and confirmed no null values or duplicates.
