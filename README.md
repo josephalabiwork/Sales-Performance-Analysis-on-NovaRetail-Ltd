@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-10-29 at 13 17 26_53195534](https://github.com/user-attachments/assets/91763326-bdec-4e86-967b-541ce9e3fc72)
 # Sales-Performance-Analysis-on-NovaRetail-Ltd.
 A Python-based data analysis project showcasing data cleaning with Pandas and insightful visualizations using Matplotlib.
 ## 📘 Introduction
