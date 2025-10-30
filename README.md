@@ -3,7 +3,7 @@
 A Python based data analysis project showcasing data cleaning with Pandas and insightful visualizations using Matplotlib.
 ## 📘 Introduction
 This report presents the analysis of **NovaRetail Ltd.’s** sales data to understand overall sales performance across four major Nigerian cities.  
-The analysis focuses on **total revenue, product categories, customer behavior, and sales trends** to support better data driven decision-making and improve business performance.
+The analysis focuses on **total revenue, product categories, customer behavior, and sales trends** to support better data driven decision making and improve business performance.
  ## 🏢 Business Understanding
 **Company Name:** Nova Retail Ltd.  
 **Nature of Business:** Sales of electronics, appliances, and accessories.  
@@ -12,7 +12,7 @@ The analysis focuses on **total revenue, product categories, customer behavior, 
 Key data cleaning and preparation steps included:
 - Checked and confirmed **no null values or duplicate records** were present.  
 - Converted the **Date** column to a proper datetime format.  
-- Verified that numerical fields **Units Sold**, **Unit Price**, **Revenue**, and **Discount** — contained valid values.  
+- Verified that numerical fields **Units Sold**, **Unit Price**, **Revenue**, and **Discount** contained valid values.  
 - Created a **Month** column derived from the Date field for monthly trend analysis.  
 - Calculated **Total After Discount = Revenue - Discount** to determine net revenue.  
 - Verified the **average revenue per transaction** was approximately **₦268,373**.
